@@ -1,5 +1,6 @@
 # AGOL Inventory
-
+This tool can be used to create an inventory of ArcGIS Online (AGOL) items.  The ArcGIS Pro Toolbox, Python Notebook, and Python Script can all be used to produce the AGOL inventory.  The outputs of the inventory process can be stored as a Microsoft Excel file, or a SQLite database. 
+ 
 ## User Inventory
 
 The first thing that the tool does by default is to gather a list of all the users in your organization.  From this, you'll get a table with the following information (where available) about each user:
